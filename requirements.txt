@@ -1,0 +1,6 @@
+numpy>=1.21.0
+typing>=3.7.4
+smtplib
+email
+datetime
+logging
